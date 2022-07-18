@@ -1,4 +1,5 @@
 import cv2 
+#computer vision
 import mediapipe as mp
 from math import hypot
 from ctypes import cast, POINTER
